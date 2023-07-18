@@ -4,7 +4,7 @@
 - 🤝 I’m looking to collaborate on projects
 - 📫 How to reach me ? --> Richard.mazid@gmail.com
 
-# Connect with me [🤝]([https://pages.github.com/](https://www.linkedin.com/in/richard-mazid/))
+# Connect with me [🤝](https://www.linkedin.com/in/richard-mazid/)
 
 <!---
 RichardMzd/RichardMzd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
